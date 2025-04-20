@@ -4,7 +4,7 @@
 Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Tugas Praktikum 6 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Penjelasan Alur
-### Alur Sistem CRUD Minuman:
+### A. Alur Sistem CRUD Minuman:
 
 #### 1. Tambah Minuman (add):
 
@@ -32,7 +32,7 @@ Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Tugas Praktikum
 
 - Sebelum dihapus, akan ada konfirmasi, dan jika sudah yakin, minuman akan dihapus dari database.
 
-### Alur Sistem CRUD Kategori:
+### B. Alur Sistem CRUD Kategori:
 
 #### 1. Tambah Kategori:
 
@@ -60,7 +60,7 @@ Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Tugas Praktikum
 
 - Sebelum dihapus, akan ada konfirmasi, dan jika sudah yakin, kategori akan dihapus dari database.
 
-### Alur Sistem CRUD Supplier:
+### C. Alur Sistem CRUD Supplier:
 
 #### 1. Tambah Supplier:
 
@@ -88,7 +88,7 @@ Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Tugas Praktikum
 
 - Sebelum dihapus, akan ada konfirmasi, dan jika sudah yakin, supplier akan dihapus dari database.
 
-### Relasi Antara Tabel:
+### D. Relasi Antara Tabel:
 Tabel drinks berhubungan dengan tabel drink_categories dan suppliers melalui foreign key:
 
 - category_id pada tabel drinks merujuk ke category_id di tabel drink_categories.
